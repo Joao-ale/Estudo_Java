@@ -9,7 +9,6 @@ public class Ex01_NomeEIdade {
         String nome;
         int idade;
 
-
         while (true) {
 
             System.out.println("Nome: ");
